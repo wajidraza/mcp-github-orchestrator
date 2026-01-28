@@ -1,0 +1,7 @@
+[project]
+name = "mcp-github-orchestrator"
+version = "1.0.0"
+description = "Production MCP server allowing autonomous coding agents to inspect Git commits, create pull requests, parse issue threads, and post reviews."
+authors = [{name = "Wajid Raza", email = "wajidrazapk@outlook.com"}]
+readme = "README.md"
+requires-python = ">=3.9"
